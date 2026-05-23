@@ -1,0 +1,7 @@
+{
+  "name": "MessageLogger",
+  "description": "削除・編集されたメッセージをログに残して表示します",
+  "authors": [{ "name": "Claude" }],
+  "main": "index.js",
+  "hash": "4731572b8d7b40c62fc7a67f21494edf11c3d7a173a8622533008b8cbcba3e2c"
+}
